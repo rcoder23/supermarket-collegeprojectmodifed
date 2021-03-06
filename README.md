@@ -26,6 +26,8 @@ _You can also make changes by rasing issues and make pull requests ._
 ![Screenshot (63)](https://user-images.githubusercontent.com/62320661/110193397-9a3fe580-7e59-11eb-9cf6-4461e2701887.png)
 
 
+![GitHub language count](https://img.shields.io/github/languages/count/rcoder23/supermarket-collegeprojectmodifed)
 
 
 
+![](https://img.shields.io/badge/Pull%20requests-welcome-brightgreen)
